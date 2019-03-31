@@ -80,6 +80,14 @@ if __name__ == '__main__':
     print('port', port)
     print('clients', clients)
     main(user, port, clients)
+<<<<<<< HEAD
+=======
+    
+    # command is: 
+    # >> python chat.py user1 5001 127.0.0.1:5002 127.0.0.1:5003
+    # >> python chat.py user2 5002 127.0.0.1:5001 127.0.0.1:5003
+    # >> python chat.py user3 5003 127.0.0.1:5001 127.0.0.1:5002
+>>>>>>> master
                         
     
     
